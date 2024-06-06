@@ -1,0 +1,6 @@
+@PostOfficeManagematAPI_HostAddress = http://localhost:5149
+
+GET {{PostOfficeManagematAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
